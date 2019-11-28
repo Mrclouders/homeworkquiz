@@ -93,7 +93,7 @@ const STORE = {
             correctAnswerIndex: 1
         }
     ]
-}
+};
 
 function evaluateAnswer(ev) {
 
