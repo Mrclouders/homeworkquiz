@@ -62,6 +62,36 @@ const STORE = {
             ],
             correctAnswerIndex: 0
         }
+         {
+            text: 'What game is the most popular in 2019?',
+            answers: [
+                'The Elder Scrolls V: Skyrim',
+                'Spider-Man (2018)',
+                'PlayerUnknown’s Battlegrounds',
+                'Minecraft',
+            ],
+            correctAnswerIndex: 3
+        },
+        {
+            text: 'What is the best CS:GO player in 2019? ',
+            answers: [
+                's1mple',
+                'ZywOo',
+                'TenZ',
+                'Dandy',
+            ],
+            correctAnswerIndex: 0
+}
+        {
+            text: 'which player is the team leader of the NaVi? ',
+            answers: [
+                'Louise',
+                'Dandy',
+                'ZywOo',
+                'Leonard',
+            ],
+            correctAnswerIndex: 1
+        }
     ]
 }
 
